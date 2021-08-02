@@ -2,7 +2,7 @@
 int main(void)
 {
 	printf("LEE JOO HYUK\n"
-			"010-9010-2576\n"
-			"jjang0306@naver.com\n");
+			"010-1234-5678\n"
+			"jj1234@naver.com\n");
 	return 0;			
 }
